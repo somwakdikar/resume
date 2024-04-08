@@ -1,0 +1,42 @@
+Som Wakdikar
+linkedin.com/in/somwakdikar | somwakdikar11@gmail.com | +1 (682) 706-0939
+EDUCATION
+ 
+B.S., The University of Texas at Austin, Austin TX (Class of 2024)	Aug 2021 – May 2024
+* Electrical & Computer Engineering, Software Engineering and Design
+* Overall GPA: 3.94/4.00, 5 semesters, 2.5 years graduation
+Honors Diploma, Texas Academy of Math and Science, Denton TX (Grades 11th, 12th)	Aug 2019 – May 2021
+* Overall GPA: 3.95/4.00, Early college program
+* Awarded for exceptional academic performance and completing 475 community service hours
+EXPERIENCE
+ 
+KBR Contractor Intern, @ NASA	May 2023 – Aug 2023
+* Cost-free solution to provide the CST ground flight-control team with imagery from Boeing’s Starliner
+* Developed a wiki extension to export Artemis II+ crew training material to international partners (IP)
+* Pioneered a VR ISS experience, established a web application, added features to flight displays, wiki projects, etc.
+Systems/Integration Engineering Intern, @ NASA	Jan 2023 – May 2023
+* Solved complicated deployment issues regarding discrepancies between crew and ground displays by thoroughly understanding the architecture of software deployment for mission control displays
+* Solved multiple issues with flight camera displays regarding ISS overlays discrepancy. Required thorough analysis of python and proprietary code variables/computations in a Linux-based environment
+Propulsion Team Leader, @ Design Build Fly (DBF) @ UT	Aug 2021 – Jan 2023
+* Published a design proposal and report and placed in top 10 in the international DBF competition hosted by AIAA
+* Optimized propulsion system selection, testing, power management, wiring, wind tunnel testing, data analysis, prop. balancing, receiver programming
+* Singlehandedly, promptly, fabricated a working parcel deployment system to complete the mission for the remote-controlled aircraft after other plans were unsuccessful
+Engineering Research @ TAMS (Scholarship for Summer Research)	Dec 2020 – Aug 2021
+* Stress/strain analysis, created and tested cold-formed steel structures, modeled a 155-unit apartment building
+* honors.unt.edu/scholars-day/som-wakdikar	
+SKILLS
+ 
+* Python, Java, C, C++, JavaScript, Julia, Linux, Agile, GitLab/GitHub, Bash, Unity (VR), CI/CD integration, React
+* Excellent at anticipating, identifying, and correcting potential problems and risks in a complicated system
+* Design and detail-oriented, adaptive learner, problem-solver, teamwork, eager to learn
+* Engineering Courses: Software Implementation/Design I & II, Software Lab, Algorithms, Data Science Lab, Software Architectures, Senior Design I & II, Embedded Systems I & II, Circuit Theory, Digital Logic Design, Signals & Systems, Intro to Electrical Engineering, Intro to Computing, Discrete Mathematics, Engineering Communications, Computer Vision, Intro to Machine Learning, Information Security and Privacy
+* ARM Assembly, MATLAB, Verilog, PCB designing, Autodesk Eagle, Autodesk Revit, Abaqus FEA, Adobe Photoshop, Adobe After Effects, 2D/3D art, Machine workshop certified, OSHA certified, wiring, soldering, micro-soldering, woodwork, metalwork
+PROJECTS
+ 
+* HW Checkout: Leveraged MongoDB, Heroku, Flask, and JavaScript to create and deploy a full stack web application
+* Kaggle Competition: Placed 2nd in Data Science Lab class competition for binary classification 
+* Weather Application: Java, Android Studio, Google APIs, Weka and tested on an android smartphone
+* Quantum Transport: Honors Senior Design Project written using Julia. Refactored codebase with modularization, CI/CD, FOSS practices, documentation, and implemented a faster matrix inversion algorithm
+* Augmented Welding: Computer Vision project using Python, OpenCV to simulate a welding path
+* 2 Projects, Embedded Systems: communicate between two devices using RF technology; replicate a popular game 
+* Earthquake Prediction: Python machine learning model to predict building damage after an earthquake
