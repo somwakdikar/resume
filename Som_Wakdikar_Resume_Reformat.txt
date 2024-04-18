@@ -6,34 +6,34 @@ Phone: +1 (682) 706-0939
 EDUCATION
 The University of Texas at Austin, Austin, TX
 B.S. in Electrical & Computer Engineering, Software Engineering and Design
-August 2021 – May 2024
+August 2021 ï¿½ May 2024
 Overall GPA: 3.94/4.00
 
 Texas Academy of Math and Science, Denton, TX
 Honors Diploma
-August 2019 – May 2021
+August 2019 ï¿½ May 2021
 Overall GPA: 3.95/4.00
 Awarded for exceptional academic performance and completing 475 community service hours
 
 EXPERIENCE
-KBR Contractor Intern, NASA
-May 2023 – August 2023
-- Cost-free solution to provide the CST ground flight-control team with imagery from Boeing’s Starliner.
+Software Engineering Contractor Intern, NASA
+May 2023 ï¿½ August 2023
+- Cost-free solution to provide the CST ground flight-control team with imagery from Boeingï¿½s Starliner.
 - Developed a wiki extension to export Artemis II+ crew training material to international partners (IP).
 - Pioneered a VR ISS experience, established a web application, added features to flight displays, wiki projects.
 
-Systems/Integration Engineering Intern, NASA
-January 2023 – May 2023
+Systems/Software Engineering Intern, NASA
+January 2023 ï¿½ May 2023
 - Solved complicated deployment issues regarding discrepancies between crew and ground displays.
 - Analyzed python and proprietary code variables/computations in a Linux-based environment to address ISS overlays discrepancy.
 
 Propulsion Team Leader, Design Build Fly (DBF), UT
-August 2021 – January 2023
+August 2021 ï¿½ January 2023
 - Published a design proposal and report; top 10 in the international DBF competition hosted by AIAA.
 - Optimized propulsion system including testing, power management, and wind tunnel testing.
 
 Engineering Research, TAMS
-December 2020 – August 2021
+December 2020 ï¿½ August 2021
 - Conducted stress/strain analysis and tested cold-formed steel structures.
 - Modeled a 155-unit apartment building.
 
