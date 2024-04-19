@@ -1,0 +1,26 @@
+name: Convert Word to PDF
+
+on:
+  push:
+    paths:
+        - 'Som_Wakdikar_Resume.docx'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    container: docker://ghcr.io/whoan/docker-office-to-pdf:latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Convert Word Document to PDF
+        run: office-to-pdf /github/workspace/Som_Wakdikar_Resume.docx /github/workspace/Som_Wakdikar_Resume.pdf
+
+      - name: Commit PDF to Repository
+        run: |
+            git config --global user.email "bot@example.com"
+            git config --global user.name "Bot"
+            git add Som_Wakdikar_Resume.pdf
+            git commit -m "Bot updating PDF"
+            git push
